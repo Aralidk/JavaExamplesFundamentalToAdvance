@@ -1,4 +1,4 @@
-package com.company.BasicsAndConditionStatements;
+package com.company.Basics;
 
 public class PrimeNumbers {
     static int number = 25;

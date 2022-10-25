@@ -1,4 +1,4 @@
-package com.company.BasicsAndConditionStatements;
+package com.company.Basics;
 import java.util.ArrayList;
 import java.util.Arrays;
 
