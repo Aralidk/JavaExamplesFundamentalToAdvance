@@ -2,12 +2,10 @@ package com.company.CEN419;
 
 public class PrimeNumbers {
     public static void main(String[] args){
-
         System.out.println("The first 50 prime numbers");
         printPrimeNumbers(50);
 
     }
-
     public static void printPrimeNumbers(int numberOfPrimes){
         int numberOfLines = 10;
         int count = 0;
